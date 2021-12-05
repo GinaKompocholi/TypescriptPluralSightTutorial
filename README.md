@@ -10,3 +10,7 @@ By Brice Wilson
 To run library app paste in terminal:
 
 tsc --target ES5 library.ts && node library.js
+
+**tsc**: compiles library.ts and 
+
+**node**: runs library.js file
