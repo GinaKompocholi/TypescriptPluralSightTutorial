@@ -1,0 +1,6 @@
+{
+    "watch": "node_modules/typescript/first_lesson.ts",
+    "execMap": {
+      "ts": "ts-node"
+    }
+  }
